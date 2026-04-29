@@ -1,1 +1,2 @@
 # Smart-Weather-Alert-Station
+<div class="tenor-gif-embed" data-postid="4170798606498921989" data-share-method="host" data-aspect-ratio="1.0081" data-width="100%"><a href="https://tenor.com/view/monkey-thinking-gif-4170798606498921989">Monkey Thinking Meme</a>from <a href="https://tenor.com/search/monkey-memes">Monkey Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
